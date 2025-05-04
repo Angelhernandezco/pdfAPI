@@ -1,10 +1,11 @@
 {
-  "name": "pdf",
+  "name": "pdf-api",
   "version": "1.0.0",
   "description": "API pdf WWD",
-  "main": "pdf.js",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Calleros Camarillo Martin Alejandro",
   "license": "ISC",
